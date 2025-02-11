@@ -1,0 +1,21 @@
+body {
+    width: 1000px;
+    background-color: #FDFEC8;
+}
+h1 {
+    color:#FB77CF;
+    font-family: Verdana: serif;
+}
+img {
+    margin: auto;
+    width:900px;
+    height:600px;
+}
+ul {
+    font-family: Verdana: serif;
+    padding-left: 2rem;
+} 
+a{
+    color:black;
+    hover: pink;
+}
